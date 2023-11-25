@@ -28,3 +28,4 @@ Profissional de Tecnologia da Informação, formado em Gestão da TI, com pós-g
 
 # GitHub Status
 [![GitHub Streak](https://streak-stats.demolab.com?user=ormizioruas&theme=tokyonight&hide_border=verdadeiro&border_radius=4.8&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ormizioruas&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
