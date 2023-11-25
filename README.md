@@ -23,6 +23,7 @@ Profissional de Tecnologia da Informação, formado em Gestão da TI, com pós-g
  <br /> <br />
 
  # Linguagens
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ormizioruas&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
   <br /> <br />
 
